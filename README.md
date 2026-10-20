@@ -1,5 +1,7 @@
 # BReOLAP: Your Fintech Realtime-OLAP Solution 🚀
 
+> Fork maintained at [sahilbhende25/BROLAP](https://github.com/sahilbhende25/BROLAP). Upstream: [hermya/cs511_BReOLAP](https://github.com/hermya/cs511_BReOLAP).
+
 Fintech organizations require an OLAP solution that can resolve complex analytical queries in milliseconds, enabling them to make informed, split-second decisions. Choosing the right Realtime-OLAP is crucial, and **BReOLAP** is here to guide you through selecting the best option for your specific needs! Check out **[this](https://lnkd.in/gQDAbzTF)** formal report for our end-to-end scientific study
 
 ----
@@ -69,4 +71,3 @@ For updates, further details, and live results, keep an eye on this space! We're
 ---
 
 We're excited to help you navigate the complex landscape of Realtime-OLAP solutions. With BReOLAP, you're not just choosing a tool; you're setting the stage for future-proof financial analytics!
-
